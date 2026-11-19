@@ -1,0 +1,25 @@
+[
+  {
+    "slug": "cheezious",
+    "status": "approved_waiting_for_buffer_slot",
+    "approved_at": "2026-11-19T21:48:53Z",
+    "video_url": "https://cdn.jsdelivr.net/gh/MananDev/qissa-mukhtasar-media@023a714ec279dc0a8536974d70a7596ebe463dae/cheezious_reel.mp4",
+    "md5": "336cecc194ffdfe74f281cca17790d91",
+    "duration_s": 86.6,
+    "thumbnail_offset_ms": 0,
+    "target_slot": "next free Mon/Wed/Fri/Sat; earliest Wed 2026-11-25 (YT 19:30 PKT, IG 20:30 PKT)",
+    "youtube": {
+      "channel_id": "6af98af4ece6dfde5fd079dd",
+      "title": "How Cheezious went from Okara to 30,000 pizzas a day #cheezious",
+      "category_id": "27",
+      "made_for_kids": false,
+      "text": "2014 mein Okara ki ek chhoti si pizza shop, do dost aur ek taaj jaisi crust. Aaj roz 30,000 pizza. Cheezious ki kahani. 🍕\nFrom one small pizza shop in Okara to 30,000 pizzas a day.\n\nQissa Mukhtasar: Pakistan ki kahaniyan, short mein. Subscribe for more stories.\n\n#cheezious #pizza #okara #pakistanibrands #qissamukhtasar #urdu #shorts"
+    },
+    "instagram": {
+      "channel_id": "6af98cc5ece6dfde5fd08637",
+      "type": "reel",
+      "share_to_feed": true,
+      "text": "2014 mein Okara ki ek chhoti si pizza shop, do dost aur ek taaj jaisi crust. Aaj roz 30,000 pizza. Cheezious ki kahani. 🍕\nTwo friends, one small pizza shop in Okara, and a crown-shaped crust.\n\n#cheezious #pizza #okara #pakistanibrands #qissamukhtasar #urdu #reels"
+    }
+  }
+]
